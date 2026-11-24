@@ -1,0 +1,9 @@
+{
+  "name": "또타미 TOTA:ME",
+  "short_name": "또타미",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
